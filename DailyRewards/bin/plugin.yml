@@ -1,0 +1,10 @@
+name: DailyRewards
+main: me.amitay.dr.Main
+version: 1.0
+Author: Amitay
+
+commands:
+  setitem:
+    description: Sets an item.
+  dailyRewards:
+    description: Open the daily reward GUI.
